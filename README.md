@@ -24,7 +24,6 @@ Para ejecutar este proyecto, necesitas tener instalado Python 3.x en tu sistema.
 
    ```bash
    python reloj_despertador.py
-   
    ```
 3. **Configura la hora de la alarma** dentro del script. Por defecto, la alarma está configurada para las "15:26". Cambia esta hora a la que desees.
 
@@ -35,3 +34,46 @@ Las contribuciones son bienvenidas. Si tienes sugerencias para mejorar este proy
 
 ## Actualizaciones pendientes. 
   . Cambiar hora en un gui para no tener que hacerlo dentro del propio script
+
+
+
+# Alarm Clock
+
+This is an alarm clock project in Python that randomly plays a YouTube video from a list of URLs stored in a text file. When the alarm is set, the program will select a URL from the list and open it in the browser.
+
+## Description
+
+Alarm clock applications are used by people worldwide. This program goes beyond being a typical alarm clock, allowing users to input YouTube URLs in a text file and set it to play a random video at the scheduled time.
+
+## Features
+
+- Load YouTube video URLs from a text file.
+- Set an alarm for a specific time.
+- Play a random YouTube video when the alarm goes off.
+
+## Requirements
+
+To run this project, you need Python 3.x installed on your system. No external libraries are required.
+
+## Usage
+
+1. **Create a text file** named `urls_youtube1.txt` in the same directory as the script. Write the YouTube video URLs you want the alarm clock to use, each on a new line.
+
+2. **Run the script**:
+
+   ```bash
+   python alarm_clock.py
+   ```
+
+3. **Set the alarm time** within the script. By default, the alarm is set to "15:26". Change this time to your desired setting.
+
+4. **Wait for the alarm to ring.** The program will wait until the scheduled time and then open a random YouTube video from your file.
+
+## Contributing
+
+Contributions are welcome. If you have suggestions to improve this project, feel free to open an issue or create a pull request.
+
+## Pending Updates
+
+- Add a GUI to change the time without modifying the script itself.
+
