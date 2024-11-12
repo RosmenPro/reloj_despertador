@@ -35,6 +35,14 @@ Las contribuciones son bienvenidas. Si tienes sugerencias para mejorar este proy
 ## Actualizaciones pendientes. 
   . Cambiar hora en un gui para no tener que hacerlo dentro del propio script
 
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Autor
+
+- **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
+
+---
 
 
 # Alarm Clock
@@ -76,4 +84,13 @@ Contributions are welcome. If you have suggestions to improve this project, feel
 ## Pending Updates
 
 - Add a GUI to change the time without modifying the script itself.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Author
+
+- **Rosmén Valencia** - [GitHubProfile](https://github.com/RosmenPro)
+
 
